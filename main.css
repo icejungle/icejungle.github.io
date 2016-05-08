@@ -4,9 +4,8 @@ h1 {
 
 .header{
 	text-align: center;
-	w3-border;
 }
 
 .sidebar{
-
+	border: 1px solid black;
 }
