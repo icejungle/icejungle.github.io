@@ -6,7 +6,17 @@ h1 {
 	text-align: center;
 }
 
-.sidebar{
+.body {
+	overflow: hidden;
+}
+
+.body .sidebar{
 	border: 1px solid black;
-	width: 35%;
+	width: 15;
+	float: left;
+}
+
+.body .content {
+	border: 1px solid black;
+	width: 85%;
 }
