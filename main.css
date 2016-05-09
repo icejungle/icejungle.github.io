@@ -10,13 +10,13 @@ h1 {
 	overflow: hidden;
 }
 
-.body .sidebar{
+.body.sidebar{
 	border: 1px solid black;
 	width: 15%;
 	float: left;
 }
 
-.body .content {
+.body.content {
 	border: 1px solid black;
 	width: 85%;
 }
