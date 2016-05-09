@@ -17,11 +17,12 @@ h1 {
 	width: 15%;
 	float: left;
 	background: #90EE90; 
+	text-align: center;
 }
 
 .body .content {
 	border: 1px solid black;
-	padding: 10px 10px 10px 20px;
+	padding: 10px 10px 10px 120px;
 	border-radius: 25px;
 	background: #C1FFC1;
 	/*width: 85%;*/
